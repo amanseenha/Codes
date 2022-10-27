@@ -17,7 +17,6 @@ public class rock_paper_scissor {
         } else if (user > x && user < 3) {
             System.out.println("You Win");
         }
-
         else if (x > user) {
             System.out.println("Computer Wins");
         } else {
