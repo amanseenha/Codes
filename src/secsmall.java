@@ -1,4 +1,3 @@
-import java.io.*;
 class secsmall
 {
 static private int secondSmallest(int[] arr, int n)

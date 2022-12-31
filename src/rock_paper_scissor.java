@@ -23,5 +23,6 @@ public class rock_paper_scissor {
             System.out.println("Wrong Input");
         }
         System.out.println("The computer chose "+ x);
+        choice.close();
     }
 }

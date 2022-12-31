@@ -9,5 +9,7 @@ public class simple {
         int roll = rollno.nextInt();
         System.out.println("Your name is: "+ name);
         System.out.print("Your roll no. is: "+ roll);
+        nam.close();
+        rollno.close();
     }
 }
